@@ -1,0 +1,16 @@
+\BOOKMARK [1][]{section.1}{1 Introduction}{}% 1
+\BOOKMARK [1][]{section.2}{2 Overview of our escrow free HIBOOS model}{}% 2
+\BOOKMARK [2][]{subsection.2.1}{2.1 Preliminaries}{section.2}% 3
+\BOOKMARK [3][]{subsubsection.2.1.1}{2.1.1 Bilinear Pairing}{subsection.2.1}% 4
+\BOOKMARK [3][]{subsubsection.2.1.2}{2.1.2 Complexity Assumption}{subsection.2.1}% 5
+\BOOKMARK [2][]{subsection.2.2}{2.2 Intuition of Escrow-free}{section.2}% 6
+\BOOKMARK [2][]{subsection.2.3}{2.3 Generic Construction}{section.2}% 7
+\BOOKMARK [2][]{subsection.2.4}{2.4 Security Model}{section.2}% 8
+\BOOKMARK [1][]{section.3}{3 Escrow-free Online/Offline HIBS Scheme}{}% 9
+\BOOKMARK [2][]{subsection.3.1}{3.1 Construction}{section.3}% 10
+\BOOKMARK [2][]{subsection.3.2}{3.2 Security Proof}{section.3}% 11
+\BOOKMARK [1][]{section.4}{4 Performance Analysis}{}% 12
+\BOOKMARK [2][]{subsection.4.1}{4.1 Computational Costs}{section.4}% 13
+\BOOKMARK [2][]{subsection.4.2}{4.2 Scheme Comparison}{section.4}% 14
+\BOOKMARK [1][]{section.5}{5 Related Work}{}% 15
+\BOOKMARK [1][]{section.6}{6 Conclusion}{}% 16
